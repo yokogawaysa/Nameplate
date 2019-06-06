@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CONFIG>
+  <Comum>
+    <!-- atualizadoem DEVE ser a primeira chave deste grupo!!!-->
+    <ATUALIZADOEM required="1">06/05/2019 07:45</ATUALIZADOEM>
+    <drvServer>\\10.32.24.3\dados$\Flowmeter\DATA</drvServer>
+    <drvDataBase>\\10.32.24.3\dados$\Flowmeter\DATA\Database</drvDataBase>
+    <drvDB>\\10.32.24.3\dados$\Flowmeter\DATA</drvDB>
+    <drvMicrosigaTXT>\\10.32.24.3\dados$\Flowmeter\DATA\MICROSIGA_DATA\TXT</drvMicrosigaTXT>
+    <CommPort>COM1</CommPort>
+    <CommSettings>9600,n,8,2</CommSettings>
+    <limitIntegralSUFIX1>21</limitIntegralSUFIX1>
+    <limitIntegralSUFIX2>21</limitIntegralSUFIX2>
+    <limitIntegralTAG1>16</limitIntegralTAG1>
+    <limitIntegralTAG2>0</limitIntegralTAG2>
+    <limitTagTAG1>16</limitTagTAG1>
+    <limitTagTAG2>16</limitTagTAG2>
+    <clearTML>True</clearTML>
+  </Comum>
+</CONFIG>
